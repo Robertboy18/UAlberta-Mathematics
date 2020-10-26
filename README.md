@@ -1,6 +1,6 @@
 <img src = "https://enterprisequartetdotcom.files.wordpress.com/2012/09/ua1txt2.jpg">
 <hr>
-Mathematics Courses that I have taken at the University of Alberta
+Mathematics and Statistics Courses that I have taken at the University of Alberta
 <hr>
 
 **List of MATH Courses**
