@@ -3,7 +3,7 @@
 Mathematics and Statistics Courses that I have taken at the University of Alberta
 <hr>
 
-**List of MATH Courses**
+**List of MATH/STAT Courses**
 
 | Course Number 	| Course Name                            	| Year      	|
 |---------------	|----------------------------------------	|-----------	|
