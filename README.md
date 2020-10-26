@@ -19,7 +19,7 @@ Mathematics Courses that I have taken at the University of Alberta
 | 336           	| Honors Ordinary Differential Equations 	| Sophomore 	|
 | 328           	| Introduction to Ring Theory            	| Sophomore 	|
 <hr>
-Please note that most of the notes are typed in **Latex**. 
+Please note that most of the notes are typed in Latex. 
 
 If there are any errors please do let me know!
 <hr>
