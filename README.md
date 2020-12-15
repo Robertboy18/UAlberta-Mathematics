@@ -17,9 +17,9 @@ Mathematics and Statistics Courses that I have taken at the University of Albert
 | 322           	| Graph Theory                           	| Sophomore 	|
 | 317           	| Honors Advanced Calculus II            	| Sophomore 	|
 | 336           	| Honors Ordinary Differential Equations 	| Sophomore 	|
-| 328           	| Introduction to Ring Theory            	| Sophomore 	|
+| 372           	| Mathematical Modelling I         	      | Sophomore 	|
 <hr>
-Please note that most of the notes are typed in Latex. 
+Please note that most of the notes are typed in Latex or handwritten and if any of the professors notes are used, some comments and additional information has been added.
 
 If there are any errors please do let me know!
 <hr>
