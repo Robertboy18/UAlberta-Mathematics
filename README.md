@@ -20,14 +20,12 @@ Mathematics and Statistics Courses that I have taken at the University of Albert
 | 372           	| Mathematical Modelling I         	      | Sophomore 	|
 | 337           	| Partial Differential Equations           	| Junior 	|
 | 381           	| Numerical Methods 	| Junior 	|
-| 499           	| Honors Research Thesis        	      | Junior 	|
-| 298          	| Problem Solving Seminar         	      | Junior 	|
 | 436           	| Intermediate Partial Differential Equations           	| Senior 	|
-| 298          	| Problem Solving Seminar         	      | Junior 	|
-| 381           	| Honors Complex Analysis 	| Senior 	|
-| 298          	| Problem Solving Seminar         	      | Junior 	|
+| 411           	| Honors Complex Analysis 	| Senior 	|
+| 298          	| Problem Solving Seminar         	      | Junior, Senior 	|
+| 253           | Theory of Interest  | Senior |
 | 417           	| Honors Real Variables (Measure Theory)	| Senior 	|
-| 499           	| Honors Research Thesis        	      | Senior 	|
+| 499           	| Honors Research Thesis        	      | Junior, Senior 	|
 
 <hr>
 Please note that most of the notes are typed in Latex or handwritten and if any of the professor's notes are used, some comments and additional information have been added.
